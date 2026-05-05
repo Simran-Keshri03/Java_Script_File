@@ -3,6 +3,8 @@ console.log(a);
 a = 30;
 console.log(a);
 
+console.warn("This is a warning");
+console.error("Error");
 // const b = 20;
 // console.log(b);
 // b = 30;
