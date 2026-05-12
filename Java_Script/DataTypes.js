@@ -4,6 +4,11 @@ c = "simran";
 d= true;
 e = 'q';
 
+let age = 20;
+let price = 99.99;
+
+console.log(age);
+console.log(price);
 
 console.log(a ,typeof (a));
 console.log(b ,typeof (b));
