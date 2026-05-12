@@ -5,7 +5,8 @@ console.log(a);
 
 console.warn("This is a warning");
 console.error("Error");
-console.log("hii ")
+console.log("hii ");
+
 // const b = 20;
 // console.log(b);
 // b = 30;
@@ -21,3 +22,11 @@ var a =5 ;
 console.log(a);
 var a = 8;  //not error
 console.log(a);
+
+let name = "Simran";
+const age = 20;
+var city = "Bhopal";
+
+console.log(name);
+console.log(age);
+console.log(city);
