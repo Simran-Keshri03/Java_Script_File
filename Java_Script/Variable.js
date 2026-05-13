@@ -23,6 +23,7 @@ console.log(a);
 var a = 8;  //not error
 console.log(a);
 
+
 let name = "Simran";
 const age = 20;
 var city = "Bhopal";
