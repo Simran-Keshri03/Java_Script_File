@@ -31,3 +31,6 @@ var city = "Bhopal";
 console.log(name);
 console.log(age);
 console.log(city);
+
+
+window.alert("Hello Bhai");
